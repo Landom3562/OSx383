@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "isr.h": "c",
+        "kb.h": "c",
+        "monitor.h": "c"
+    }
+}
